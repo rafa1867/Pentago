@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\rozgrywka.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\rozgrywka.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_uzytkownikiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\gra_z_uzytkownikiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\plansza.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\plansza.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\rozgrywka.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\rozgrywka.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\tablica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\tablica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_komputerem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\gra_z_komputerem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_uzytkownikiem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\gra_z_uzytkownikiem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_komputerem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\gra_z_komputerem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\tablica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\tablica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafal\\Downloads\\Plansza.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\ClassDiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{599D190D-C267-4CDB-AD9D-10212A9829B5}|Pentago\\Pentago.vcxproj|solutionrelative:Pentago\\ClassDiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plansza.h",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\plansza.h",
+              "RelativeDocumentMoniker": "Pentago\\plansza.h",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\plansza.h",
+              "RelativeToolTip": "Pentago\\plansza.h",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T15:39:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tablica.h",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\tablica.h",
+              "RelativeDocumentMoniker": "Pentago\\tablica.h",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\tablica.h",
+              "RelativeToolTip": "Pentago\\tablica.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T15:39:32.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rozgrywka.cpp",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\rozgrywka.cpp",
+              "RelativeDocumentMoniker": "Pentago\\rozgrywka.cpp",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\rozgrywka.cpp",
+              "RelativeToolTip": "Pentago\\rozgrywka.cpp",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAowLMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T15:40:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gra_z_uzytkownikiem.h",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_uzytkownikiem.h",
+              "RelativeDocumentMoniker": "Pentago\\gra_z_uzytkownikiem.h",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_uzytkownikiem.h",
+              "RelativeToolTip": "Pentago\\gra_z_uzytkownikiem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T15:32:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rozgrywka.h",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\rozgrywka.h",
+              "RelativeDocumentMoniker": "Pentago\\rozgrywka.h",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\rozgrywka.h",
+              "RelativeToolTip": "Pentago\\rozgrywka.h",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAKEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T15:31:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tablica.cpp",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\tablica.cpp",
+              "RelativeDocumentMoniker": "Pentago\\tablica.cpp",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\tablica.cpp",
+              "RelativeToolTip": "Pentago\\tablica.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T20:36:59.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gra_z_uzytkownikiem.cpp",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_uzytkownikiem.cpp",
+              "RelativeDocumentMoniker": "Pentago\\gra_z_uzytkownikiem.cpp",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_uzytkownikiem.cpp",
+              "RelativeToolTip": "Pentago\\gra_z_uzytkownikiem.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T20:51:01.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gra_z_komputerem.cpp",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_komputerem.cpp",
+              "RelativeDocumentMoniker": "Pentago\\gra_z_komputerem.cpp",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_komputerem.cpp",
+              "RelativeToolTip": "Pentago\\gra_z_komputerem.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAADgv0wAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T21:51:21.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gra_z_komputerem.h",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_komputerem.h",
+              "RelativeDocumentMoniker": "Pentago\\gra_z_komputerem.h",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\gra_z_komputerem.h",
+              "RelativeToolTip": "Pentago\\gra_z_komputerem.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T21:51:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\main.cpp",
+              "RelativeDocumentMoniker": "Pentago\\main.cpp",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\main.cpp",
+              "RelativeToolTip": "Pentago\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T21:58:39.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Plansza.cpp",
+              "DocumentMoniker": "C:\\Users\\rafal\\Downloads\\Plansza.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Plansza.cpp",
+              "ToolTip": "C:\\Users\\rafal\\Downloads\\Plansza.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Plansza.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T13:40:31.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Pentago\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\rafal\\Desktop\\Projekt semestralny\\gra pentago\\Pentago\\Pentago\\ClassDiagram1.cd",
+              "RelativeToolTip": "Pentago\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-01T23:28:02.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

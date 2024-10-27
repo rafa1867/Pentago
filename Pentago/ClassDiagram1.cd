@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gra_z_komputerem" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAEA=</HashCode>
+      <FileName>gra_z_komputerem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gra_z_uzytkownikiem" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gra_z_uzytkownikiem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="plansza" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABAAAAAAWgAAAAAAAAAAAQAAAACkAQAAAAAAAKA=</HashCode>
+      <FileName>plansza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rozgrywka" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEQAIAACIAABAQABgA4EYiQA2AEEAQAABABgAEA=</HashCode>
+      <FileName>rozgrywka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tablica" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>tablica.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="wybrane_pole_na_planszy" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>rozgrywka.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="kto_wygral" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>rozgrywka.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

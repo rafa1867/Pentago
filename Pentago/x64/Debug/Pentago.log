@@ -1,0 +1,3 @@
+﻿  rozgrywka.cpp
+C:\Users\rafal\Desktop\Projekt semestralny\gra pentago\Pentago\Pentago\rozgrywka.cpp(378,8): warning C4101: 'druga_tablica': unreferenced local variable
+  Pentago.vcxproj -> C:\Users\rafal\Desktop\Projekt semestralny\gra pentago\Pentago\x64\Debug\Pentago.exe
